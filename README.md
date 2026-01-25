@@ -2,5 +2,3 @@
 hello 
 ##hello guys thats me 
 
-
-fuck you
